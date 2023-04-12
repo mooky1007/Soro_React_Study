@@ -7,7 +7,7 @@ KPI: 일반적인 기업형 사이트 제작하면서 기본 기능 익히기
 3. 각 스텝당 개념 및 해야할 과제리스트는 이슈란에 업데이트 예정
 4. 이후 과제 확인 피드백 및 질의식으로 프리하게 진행 예정
 
-[이슈확인 🔗](https://github.com/mooky1007/Soro_React_Study/issues)
+[위키확인 🔗](https://github.com/mooky1007/Soro_React_Study/wiki)
 
 - - -
 
